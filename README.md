@@ -1,175 +1,120 @@
 # 👋 Hi, I'm Rajesh Singh!
 
-### 🚀 Aspiring Software Developer | Java & DSA | Web Development | Backend Development
+### 🚀 Aspiring Software Developer | Java | DSA | Web Development
 
-Welcome to my GitHub profile! I'm passionate about building projects, solving problems, and continuously learning new technologies. I enjoy turning ideas into practical applications and improving my problem-solving skills through Data Structures & Algorithms.
+Welcome to my GitHub profile! I'm a student and aspiring software developer who enjoys coding, solving problems, and building projects while continuously improving my technical skills.
 
 ---
 
 ## 🧠 About Me
 
-* 🎓 Aspiring Software Developer
-* 💻 Currently focusing on **Java & Data Structures and Algorithms**
-* 🌐 Interested in **Web & Backend Development**
-* 🤖 Exploring **Machine Learning & AI**
-* 🚀 Building real-world projects to improve my development skills
-* 🧩 Regularly practicing coding and problem-solving
-* 🎯 Looking for opportunities to learn, collaborate, and grow as a developer
+- 🎓 Student and aspiring Software Developer
+- ☕ Currently learning and practicing **Java**
+- 🧩 Practicing **Data Structures & Algorithms**
+- 🌐 Learning **Web Development**
+- 💻 Building projects to improve my programming and development skills
+- 🚀 Interested in software development and problem-solving
+- 🎯 Currently looking for internship opportunities to learn and grow
 
 ---
 
-## 💻 Tech Stack
+## 💻 Skills
 
-### 👨‍💻 Programming Languages
+### 👨‍💻 Programming
+- Java
+- JavaScript
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
-</p>
+### 🌐 Web Development
+- HTML
+- CSS
 
-### 🌐 Web & Backend Development
+### 🧩 DSA
+- Arrays
+- Strings
+- Linked Lists
+- Sorting
+- Searching
+- Basic Recursion
+- Problem Solving
 
-<p>
-  <img src="https://skillicons.dev/icons?i=flask,django,nodejs" />
-</p>
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
-</p>
-
-### 🛠️ Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker" />
-</p>
-
-### ☁️ Deployment
-
-* 🌐 Render
-* ☁️ Koyeb
-* 🚂 Railway
+### 🛠️ Tools
+- Git
+- GitHub
+- VS Code
 
 ---
 
 ## 📚 Currently Learning
 
-```text
-Data Structures & Algorithms    ███████████████░░░░░
-Java                            ███████████████░░░░░
-Web Development                 █████████████░░░░░░░
-Backend Development             ███████████░░░░░░░░░
-Machine Learning                ████████░░░░░░░░░░░░
-```
+- ☕ Java
+- 🧩 Data Structures & Algorithms
+- 🌐 Web Development
+- 🚀 Improving Problem-Solving Skills
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### 🌐 AC Management Website
 
-A web-based platform designed for AC installation, repair, maintenance, and service management.
+A website project created to provide information and services related to AC installation, repair, maintenance, and management.
 
-**Tech:** HTML, CSS, JavaScript
+**Technologies:** HTML, CSS, JavaScript
 
 ---
 
 ### 🎬 Netflix Clone
 
-A frontend project inspired by the Netflix interface, built to practice responsive web design and frontend development.
+A frontend project created to practice website design and frontend development.
 
-**Tech:** HTML, CSS
-
----
-
-### 🧮 Calculator
-
-A Java-based calculator project created to practice programming fundamentals and logic building.
-
-**Tech:** Java
+**Technologies:** HTML, CSS
 
 ---
 
-### 🧩 LeetCode & DSA Practice
+### 🧮 Java Calculator
 
-A collection of my Data Structures & Algorithms practice and coding problem solutions.
+A simple calculator project created to practice Java programming fundamentals and logic building.
 
-**Focus:** Arrays, Strings, Linked Lists, Sorting, Searching, Recursion, and more.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajsingh-git&show_icons=true&theme=radical&hide_border=true" alt="Rajesh's GitHub Stats" />
-</p>
+**Technology:** Java
 
 ---
 
-## 🔥 GitHub Streak
+## 🧩 DSA Practice
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rajsingh-git&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+I regularly practice Data Structures & Algorithms and solve coding problems to improve my problem-solving skills.
 
----
-
-## 📚 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajsingh-git&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+**Primary Language:** Java
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajsingh-git&theme=algolia&no-frame=true&margin-w=10" alt="GitHub Trophies" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rajsingh-git/rajsingh-git/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</p>
-
----
-
-## 🌐 Let's Connect
+## 🌐 Connect With Me
 
 <p align="center">
 
-  <a href="https://github.com/rajsingh-git">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+<a href="https://github.com/rajsingh-git">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-  <a href="https://www.linkedin.com/in/rajsingh-linked/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+<a href="https://www.linkedin.com/in/rajsingh-linked/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-  <a href="mailto:rajsingh.links@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+<a href="mailto:rajsingh.links@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
 </p>
 
 ---
 
-## 💡 My Goal
+## 🎯 My Goal
 
-> **"Learn. Build. Solve. Repeat."**
+> Learn. Build. Solve. Grow.
 
-I'm continuously working on improving my coding skills, building meaningful projects, and preparing myself for exciting opportunities in software development.
+I'm continuously working on improving my programming and development skills and preparing myself for opportunities in software development.
 
 ---
 
 # 🚀 Thanks for Visiting My Profile!
 
-⭐ Feel free to explore my repositories, check out my projects, and connect with me!
-
-<p align="center">
-  <b>Happy Coding! 💻🚀</b>
-</p>
+⭐ Feel free to explore my repositories and connect with me!
